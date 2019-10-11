@@ -1,0 +1,150 @@
+2019-10-11 13:07:40,218 - DEBUG - Creating the directory /Volumes/GoogleDrive/My Drive/data/uscp_reports/data/source ...
+2019-10-11 13:07:40,221 - DEBUG - Directory already exists.
+2019-10-11 13:07:40,223 - DEBUG - Getting https://www.uscp.gov/media-center/weekly-arrest-summary.
+2019-10-11 13:07:40,812 - DEBUG - Done.
+2019-10-11 13:07:40,876 - DEBUG - Downloading /arrest_summary_12-20-18_1-2-19_1.pdf
+2019-10-11 13:07:41,207 - DEBUG - Downloading /arrest_summary_1-3-19_1-9-19.pdf
+2019-10-11 13:07:41,534 - DEBUG - Downloading /arrest_summary_1-10-19_1-16-19.pdf
+2019-10-11 13:07:41,837 - DEBUG - Downloading /arrest_summary_1-17-19_1-23-19.pdf
+2019-10-11 13:07:42,227 - DEBUG - Downloading /arrest_summary_1-24-19_1-30-19.pdf
+2019-10-11 13:07:42,621 - DEBUG - Downloading /arrest_summary_1-31-19_2-6-19.pdf
+2019-10-11 13:07:42,917 - DEBUG - Downloading /arrest_summary_2-7-19_2-13-19.pdf
+2019-10-11 13:07:43,206 - DEBUG - Downloading /arrest_summary_2-14-19_2-27-19.pdf
+2019-10-11 13:07:43,516 - DEBUG - Downloading /arrest_summary_2-28-19_3-6-19.pdf
+2019-10-11 13:07:43,798 - DEBUG - Downloading /arrest_summary_3-7-19_3-13-19.pdf
+2019-10-11 13:07:44,098 - DEBUG - Downloading /arrest_summary_3-14-19_3-20-19.pdf
+2019-10-11 13:07:44,404 - DEBUG - Downloading /arrest_summary_3-21-19_3-27-19.pdf
+2019-10-11 13:07:44,704 - DEBUG - Downloading /arrest_summary_3-28-19_4-3-19.pdf
+2019-10-11 13:07:45,005 - DEBUG - Downloading /arrest_summary_4-4-19_4-10-19_0.pdf
+2019-10-11 13:07:45,375 - DEBUG - Downloading /arrest_summary_4-11-19_4-17-19_1.pdf
+2019-10-11 13:07:45,777 - DEBUG - Downloading /arrest_summary_4-18-19_4-24-19_0.pdf
+2019-10-11 13:07:46,122 - DEBUG - Downloading /arrest_summary_4-25-19_5-1-19_0.pdf
+2019-10-11 13:07:46,525 - DEBUG - Downloading /arrest_summary_5-2-19_5-8-19_0.pdf
+2019-10-11 13:07:46,894 - DEBUG - Downloading /arrest_summary_5-9-19_5-15-19_0.pdf
+2019-10-11 13:07:47,277 - DEBUG - Downloading /arrest_summary_5-16-19_5-22-19_2.pdf
+2019-10-11 13:07:47,648 - DEBUG - Downloading /arrest_summary_5-23-19_5-29-19_0.pdf
+2019-10-11 13:07:48,039 - DEBUG - Downloading /arrest_summary_5-30-19_6-5-19_0.pdf
+2019-10-11 13:07:48,494 - DEBUG - Downloading /arrest_summary_6-6-19_6-12-19_0.pdf
+2019-10-11 13:07:48,892 - DEBUG - Downloading /arrest_summary_6-13-19_6-19-19_1.pdf
+2019-10-11 13:07:49,282 - DEBUG - Downloading /arrest_summary_6-20-19_6-26-19_0.pdf
+2019-10-11 13:07:49,655 - DEBUG - Downloading /arrest_summary_6-27-19_7-3-19.pdf
+2019-10-11 13:07:50,085 - DEBUG - Downloading /arrest_summary_7-4-19_7-10-19.pdf
+2019-10-11 13:07:50,451 - DEBUG - Downloading /arrest_summary_7-11-19_7-17-19.pdf
+2019-10-11 13:07:50,812 - DEBUG - Downloading /arrest_summary_7-18-19_7-24-19.pdf
+2019-10-11 13:07:51,213 - DEBUG - Downloading /arrest_summary_7-25-19_7-31-19.pdf
+2019-10-11 13:07:51,573 - DEBUG - Downloading /arrest_summary_8-1-19_8-7-19.pdf
+2019-10-11 13:07:51,938 - DEBUG - Downloading /arrest_summary_8-8-19_8-14-19.pdf
+2019-10-11 13:07:52,293 - DEBUG - Downloading /arrest_summary_8-15-19_8-21-19.pdf
+2019-10-11 13:07:52,648 - DEBUG - Downloading /arrest_summary_8-22-19_8-28-19.pdf
+2019-10-11 13:07:53,010 - DEBUG - Downloading /arrest_summary_8-29-19_9-4-19.pdf
+2019-10-11 13:07:53,466 - DEBUG - Downloading /arrest_summary_9-5-19_9-11-19.pdf
+2019-10-11 13:07:53,894 - DEBUG - Downloading /arrest_summary_9-12-19_9-18-19_0.pdf
+2019-10-11 13:07:54,292 - DEBUG - Downloading /arrest_summary_9-19-19_9-25-19.pdf
+2019-10-11 13:07:54,649 - DEBUG - Downloading /arrest_summary_9-26-19_10-2-19_0.pdf
+2019-10-11 13:07:55,050 - DEBUG - Downloading /arrest_summary_10-3-19_10-9-19.pdf
+2019-10-11 16:40:31,284 - DEBUG - Creating the directory /Volumes/GoogleDrive/My Drive/data/uscp_reports/data/source ...
+2019-10-11 16:40:31,286 - DEBUG - Directory already exists.
+2019-10-11 16:40:31,286 - DEBUG - Getting https://www.uscp.gov/media-center/weekly-arrest-summary.
+2019-10-11 16:40:31,971 - DEBUG - Done.
+2019-10-11 16:40:32,017 - DEBUG - Downloading /arrest_summary_12-20-18_1-2-19_1.pdf
+2019-10-11 16:40:32,234 - DEBUG - Downloading /arrest_summary_1-3-19_1-9-19.pdf
+2019-10-11 16:40:32,428 - DEBUG - Downloading /arrest_summary_1-10-19_1-16-19.pdf
+2019-10-11 16:40:32,625 - DEBUG - Downloading /arrest_summary_1-17-19_1-23-19.pdf
+2019-10-11 16:40:32,815 - DEBUG - Downloading /arrest_summary_1-24-19_1-30-19.pdf
+2019-10-11 16:40:33,017 - DEBUG - Downloading /arrest_summary_1-31-19_2-6-19.pdf
+2019-10-11 16:40:33,208 - DEBUG - Downloading /arrest_summary_2-7-19_2-13-19.pdf
+2019-10-11 16:40:33,405 - DEBUG - Downloading /arrest_summary_2-14-19_2-27-19.pdf
+2019-10-11 16:40:33,644 - DEBUG - Downloading /arrest_summary_2-28-19_3-6-19.pdf
+2019-10-11 16:40:33,860 - DEBUG - Downloading /arrest_summary_3-7-19_3-13-19.pdf
+2019-10-11 16:40:34,054 - DEBUG - Downloading /arrest_summary_3-14-19_3-20-19.pdf
+2019-10-11 16:40:34,234 - DEBUG - Downloading /arrest_summary_3-21-19_3-27-19.pdf
+2019-10-11 16:40:34,417 - DEBUG - Downloading /arrest_summary_3-28-19_4-3-19.pdf
+2019-10-11 16:40:34,603 - DEBUG - Downloading /arrest_summary_4-4-19_4-10-19_0.pdf
+2019-10-11 16:40:34,864 - DEBUG - Downloading /arrest_summary_4-11-19_4-17-19_1.pdf
+2019-10-11 16:40:35,105 - DEBUG - Downloading /arrest_summary_4-18-19_4-24-19_0.pdf
+2019-10-11 16:40:35,322 - DEBUG - Downloading /arrest_summary_4-25-19_5-1-19_0.pdf
+2019-10-11 16:40:35,537 - DEBUG - Downloading /arrest_summary_5-2-19_5-8-19_0.pdf
+2019-10-11 16:40:35,782 - DEBUG - Downloading /arrest_summary_5-9-19_5-15-19_0.pdf
+2019-10-11 16:40:36,032 - DEBUG - Downloading /arrest_summary_5-16-19_5-22-19_2.pdf
+2019-10-11 16:40:36,248 - DEBUG - Downloading /arrest_summary_5-23-19_5-29-19_0.pdf
+2019-10-11 16:40:36,480 - DEBUG - Downloading /arrest_summary_5-30-19_6-5-19_0.pdf
+2019-10-11 16:40:36,698 - DEBUG - Downloading /arrest_summary_6-6-19_6-12-19_0.pdf
+2019-10-11 16:40:36,929 - DEBUG - Downloading /arrest_summary_6-13-19_6-19-19_1.pdf
+2019-10-11 16:40:37,222 - DEBUG - Downloading /arrest_summary_6-20-19_6-26-19_0.pdf
+2019-10-11 16:40:37,494 - DEBUG - Downloading /arrest_summary_6-27-19_7-3-19.pdf
+2019-10-11 16:40:37,729 - DEBUG - Downloading /arrest_summary_7-4-19_7-10-19.pdf
+2019-10-11 16:40:37,963 - DEBUG - Downloading /arrest_summary_7-11-19_7-17-19.pdf
+2019-10-11 16:40:38,189 - DEBUG - Downloading /arrest_summary_7-18-19_7-24-19.pdf
+2019-10-11 16:40:38,522 - DEBUG - Downloading /arrest_summary_7-25-19_7-31-19.pdf
+2019-10-11 16:40:38,750 - DEBUG - Downloading /arrest_summary_8-1-19_8-7-19.pdf
+2019-10-11 16:40:38,988 - DEBUG - Downloading /arrest_summary_8-8-19_8-14-19.pdf
+2019-10-11 16:40:39,215 - DEBUG - Downloading /arrest_summary_8-15-19_8-21-19.pdf
+2019-10-11 16:40:39,451 - DEBUG - Downloading /arrest_summary_8-22-19_8-28-19.pdf
+2019-10-11 16:40:39,718 - DEBUG - Downloading /arrest_summary_8-29-19_9-4-19.pdf
+2019-10-11 16:40:39,942 - DEBUG - Downloading /arrest_summary_9-5-19_9-11-19.pdf
+2019-10-11 16:40:40,196 - DEBUG - Downloading /arrest_summary_9-12-19_9-18-19_0.pdf
+2019-10-11 16:40:40,494 - DEBUG - Downloading /arrest_summary_9-19-19_9-25-19.pdf
+2019-10-11 16:40:40,760 - DEBUG - Downloading /arrest_summary_9-26-19_10-2-19_0.pdf
+2019-10-11 16:40:41,021 - DEBUG - Downloading /arrest_summary_10-3-19_10-9-19.pdf
+2019-10-11 16:40:41,280 - DEBUG - Parsing the PDFs ...
+2019-10-11 16:41:05,155 - DEBUG - Done.
+2019-10-11 16:41:05,155 - DEBUG - Parsing each row into columns ...
+2019-10-11 16:41:05,178 - DEBUG - ... putting into dataframe ...
+2019-10-11 16:41:05,211 - DEBUG - Done.
+2019-10-11 16:41:05,212 - DEBUG - Converting dataframe to csv ...
+2019-10-11 16:41:05,212 - DEBUG - Creating the directory /Volumes/GoogleDrive/My Drive/data/uscp_reports/data/processed ...
+2019-10-11 16:41:05,213 - DEBUG - Directory already exists.
+2019-10-11 16:41:05,232 - DEBUG - Saved the file /Volumes/GoogleDrive/My Drive/data/uscp_reports/data/processed/uscp_arrests_20191011_164031.csv.
+2019-10-11 16:44:35,886 - DEBUG - Creating the directory /Volumes/GoogleDrive/My Drive/data/uscp_reports/data/source ...
+2019-10-11 16:44:35,887 - DEBUG - Directory already exists.
+2019-10-11 16:44:35,887 - DEBUG - Getting https://www.uscp.gov/media-center/weekly-arrest-summary.
+2019-10-11 16:44:36,147 - DEBUG - Done.
+2019-10-11 16:44:36,199 - DEBUG - Downloading /arrest_summary_12-20-18_1-2-19_1.pdf
+2019-10-11 16:44:36,401 - DEBUG - Downloading /arrest_summary_1-3-19_1-9-19.pdf
+2019-10-11 16:44:36,551 - DEBUG - Downloading /arrest_summary_1-10-19_1-16-19.pdf
+2019-10-11 16:44:36,709 - DEBUG - Downloading /arrest_summary_1-17-19_1-23-19.pdf
+2019-10-11 16:44:36,882 - DEBUG - Downloading /arrest_summary_1-24-19_1-30-19.pdf
+2019-10-11 16:44:37,202 - DEBUG - Downloading /arrest_summary_1-31-19_2-6-19.pdf
+2019-10-11 16:44:37,402 - DEBUG - Downloading /arrest_summary_2-7-19_2-13-19.pdf
+2019-10-11 16:44:37,572 - DEBUG - Downloading /arrest_summary_2-14-19_2-27-19.pdf
+2019-10-11 16:44:37,755 - DEBUG - Downloading /arrest_summary_2-28-19_3-6-19.pdf
+2019-10-11 16:44:37,935 - DEBUG - Downloading /arrest_summary_3-7-19_3-13-19.pdf
+2019-10-11 16:44:38,089 - DEBUG - Downloading /arrest_summary_3-14-19_3-20-19.pdf
+2019-10-11 16:44:38,271 - DEBUG - Downloading /arrest_summary_3-21-19_3-27-19.pdf
+2019-10-11 16:44:38,472 - DEBUG - Downloading /arrest_summary_3-28-19_4-3-19.pdf
+2019-10-11 16:44:38,650 - DEBUG - Downloading /arrest_summary_4-4-19_4-10-19_0.pdf
+2019-10-11 16:44:38,852 - DEBUG - Downloading /arrest_summary_4-11-19_4-17-19_1.pdf
+2019-10-11 16:44:39,122 - DEBUG - Downloading /arrest_summary_4-18-19_4-24-19_0.pdf
+2019-10-11 16:44:39,552 - DEBUG - Downloading /arrest_summary_4-25-19_5-1-19_0.pdf
+2019-10-11 16:44:39,836 - DEBUG - Downloading /arrest_summary_5-2-19_5-8-19_0.pdf
+2019-10-11 16:44:40,059 - DEBUG - Downloading /arrest_summary_5-9-19_5-15-19_0.pdf
+2019-10-11 16:44:40,376 - DEBUG - Downloading /arrest_summary_5-16-19_5-22-19_2.pdf
+2019-10-11 16:44:40,654 - DEBUG - Downloading /arrest_summary_5-23-19_5-29-19_0.pdf
+2019-10-11 16:44:41,652 - DEBUG - Downloading /arrest_summary_5-30-19_6-5-19_0.pdf
+2019-10-11 16:44:41,822 - DEBUG - Downloading /arrest_summary_6-6-19_6-12-19_0.pdf
+2019-10-11 16:44:42,213 - DEBUG - Downloading /arrest_summary_6-13-19_6-19-19_1.pdf
+2019-10-11 16:44:42,493 - DEBUG - Downloading /arrest_summary_6-20-19_6-26-19_0.pdf
+2019-10-11 16:44:42,759 - DEBUG - Downloading /arrest_summary_6-27-19_7-3-19.pdf
+2019-10-11 16:44:43,037 - DEBUG - Downloading /arrest_summary_7-4-19_7-10-19.pdf
+2019-10-11 16:44:43,242 - DEBUG - Downloading /arrest_summary_7-11-19_7-17-19.pdf
+2019-10-11 16:44:43,449 - DEBUG - Downloading /arrest_summary_7-18-19_7-24-19.pdf
+2019-10-11 16:44:43,631 - DEBUG - Downloading /arrest_summary_7-25-19_7-31-19.pdf
+2019-10-11 16:44:43,825 - DEBUG - Downloading /arrest_summary_8-1-19_8-7-19.pdf
+2019-10-11 16:44:44,025 - DEBUG - Downloading /arrest_summary_8-8-19_8-14-19.pdf
+2019-10-11 16:44:44,447 - DEBUG - Downloading /arrest_summary_8-15-19_8-21-19.pdf
+2019-10-11 16:44:44,682 - DEBUG - Downloading /arrest_summary_8-22-19_8-28-19.pdf
+2019-10-11 16:44:44,936 - DEBUG - Downloading /arrest_summary_8-29-19_9-4-19.pdf
+2019-10-11 16:44:45,183 - DEBUG - Downloading /arrest_summary_9-5-19_9-11-19.pdf
+2019-10-11 16:44:45,432 - DEBUG - Downloading /arrest_summary_9-12-19_9-18-19_0.pdf
+2019-10-11 16:44:45,637 - DEBUG - Downloading /arrest_summary_9-19-19_9-25-19.pdf
+2019-10-11 16:44:45,899 - DEBUG - Downloading /arrest_summary_9-26-19_10-2-19_0.pdf
+2019-10-11 16:44:46,121 - DEBUG - Downloading /arrest_summary_10-3-19_10-9-19.pdf
+2019-10-11 16:44:46,329 - DEBUG - Parsing the PDFs ...
+2019-10-11 16:45:09,678 - DEBUG - Done.
+2019-10-11 16:45:09,681 - DEBUG - Parsing each row into columns ...
+2019-10-11 16:45:09,701 - DEBUG - ... putting into dataframe ...
+2019-10-11 16:45:09,725 - DEBUG - Done.
+2019-10-11 16:45:09,725 - DEBUG - Converting dataframe to csv ...
+2019-10-11 16:45:09,725 - DEBUG - Creating the directory /Volumes/GoogleDrive/My Drive/data/uscp_reports/data/processed ...
+2019-10-11 16:45:09,726 - DEBUG - Directory already exists.
+2019-10-11 16:45:09,746 - DEBUG - Saved the file /Volumes/GoogleDrive/My Drive/data/uscp_reports/data/processed/uscp_arrests_20191011_164435.csv.
